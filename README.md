@@ -66,9 +66,11 @@ Converted column datatypes to the correct SQL datatypes (for example, text to `I
 - Fixing invalid and inconsistent data
 - Changing column data types with `ALTER TABLE`
 
-## Full Report
+## Project Files
 
-See [data_cleaning_report.md](data_cleaning_report.md) for the detailed cleaning report.
+- [documentation.md](documentation.md) - detailed cleaning report
+- [sql_queries.sql](sql_queries.sql) - all SQL cleaning queries
+- [data_cleaninig_project_raw_dataset.csv](data_cleaninig_project_raw_dataset.csv) - raw dataset before cleaning
 
 ## Author
 
